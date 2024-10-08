@@ -1,5 +1,5 @@
-# dataMiningLabTutorial
-SENG 474 - Summer 2023
+# dataMiningTutorial
+Fall 2024
 
 # Lab Task: Unsupervised Learning - K-means Clustering and the Elbow Method using RFM Analysis
 
